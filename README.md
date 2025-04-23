@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hongzheng Tian
-- 👀 I’m interested in HLS, heterogeneous compiler, FPGA, digital IC design, VLSI
+- 👀 I’m interested in compilers, heterogeneous systems, HLS, and FPGA design.
 
 <!---
 hongzhengTian/hongzhengTian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
